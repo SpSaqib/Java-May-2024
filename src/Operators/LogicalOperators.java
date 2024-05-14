@@ -20,7 +20,7 @@ public class LogicalOperators {
 	        boolean result4=!y;
 
 	        System.out.println("Result of AND operation: " + result1);
-	        System.out.println("Result of OR operation: " + result2);
+	        System.out.println("Result of OR operation:  " + result2);
 	        System.out.println("Result of NOT operation: " + result3);
 	        System.out.println("Result of NOT operation: " + result4);
 
