@@ -7,11 +7,8 @@ public class ArguementedMethod {
 
 	public static void main(String[] args) 
 	{
-		int sub=subtraction(30, 20);
-		int a=10;
-		
-		int result=a+subtraction(40, 20)+sub;
-		System.out.println(result);
+		int sum=addtionOfTwoNumbers(10,30)+addtionOfTwoNumbers(50, 100)-subtraction(200,50);
+		System.out.println(sum);
 	}
 	
 	public static int addtionOfTwoNumbers(int a, int b)
