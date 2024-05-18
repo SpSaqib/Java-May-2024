@@ -16,13 +16,13 @@ public class Switch3 {
 			case 'm':
 			{
 				System.out.println("I am from case m");
-				
+				break;
 			}
 			
 			case 'n':
 			{
 				System.out.println("I am from case n");
-				break;
+				
 			}
 			
 			case '0':
