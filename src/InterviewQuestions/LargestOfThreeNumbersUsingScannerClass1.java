@@ -11,7 +11,7 @@ public class LargestOfThreeNumbersUsingScannerClass1 {
 		int b=sc.nextInt();
 		int c=sc.nextInt();
 		
-		if(a>b && b>c)
+		if(a>b && a>c)
 		{
 			System.out.println("a is largest");
 		}
