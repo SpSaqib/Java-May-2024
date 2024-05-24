@@ -25,18 +25,14 @@ public class TwoDimensionalArray {
 		int b[][]= {{1,4,6},{1,2,5}};
 		
 		System.out.println(b[0][2]);
-			int temp=2;
+		
 		
 		for(int i=0;i<2;i++)
 		{
 			for(int j=0;j<3;j++)
 			{
-				if(temp==b[i][j])
-				{
-					System.out.println(i+" "+j);
-				}
-
-				//System.out.print(b[i][j]+" ");
+				
+				System.out.print(b[i][j]+" ");
 			}
 			
 			System.out.println();
