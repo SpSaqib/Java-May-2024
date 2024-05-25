@@ -17,7 +17,7 @@ public class Static1 {
 		// static variables we can use directly in same class
 		System.out.println(c);
 		
-//		We can non static mebers with the help object reference
+//		We can non static members with the help object reference
 //		multiplication();
 
 		
