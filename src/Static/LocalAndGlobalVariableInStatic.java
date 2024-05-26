@@ -25,7 +25,6 @@ public class LocalAndGlobalVariableInStatic {
 	
 	public static void setName(String name1)
 	{
-		
 		LocalAndGlobalVariableInStatic.name1=name1;
 		
 	}
