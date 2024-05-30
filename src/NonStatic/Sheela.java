@@ -16,9 +16,7 @@ public class Sheela {
 		System.out.println("Sheela can dance");
 	}
 	
-	public static void main(String[] args) {
-		
-	}
+	
 	
 
 }
