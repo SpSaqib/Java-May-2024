@@ -19,6 +19,7 @@ public class Constructor3
 	
 	Constructor3(int id,String name, int price)
 	{
+		
 		this.id=id;
 		this.name=name;
 		this.price=price;
@@ -31,7 +32,7 @@ public class Constructor3
 	public static void main(String[] args) 
 	{
 		
-		Constructor3 c1=new Constructor3();
+		Constructor3 c1=new Constructor3(); 
 		
 		Constructor3 c2=new Constructor3(1,"RD PD");
 		
